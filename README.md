@@ -22,6 +22,4 @@ Ph.D. in Machine Learning from KTH Royal Institute of Technology. I work at the 
 - Ph.D. – KTH Royal Institute of Technology
 - 200+ citations in machine learning research
 
-[LinkedIn](https://www.linkedin.com/in/alirezamjavid/)
-[Google Scholar](https://scholar.google.com/citations?user=fiBfPVMAAAAJ)
-[Email](mailto:alireza.mj14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alirezamjavid/) | [Google Scholar](https://scholar.google.com/citations?user=fiBfPVMAAAAJ) | [Email](mailto:alireza.mj14@gmail.com)
