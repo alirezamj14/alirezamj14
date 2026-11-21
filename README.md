@@ -1,10 +1,8 @@
 # Alireza Javid
 
-Senior Data Scientist | Quantitative Finance | Machine Learning Research
+Quantitative Finance | Machine Learning Research | Senior Data Scientist
 
-Ph.D. in Machine Learning from KTH Royal Institute of Technology. I work at the intersection of machine learning, quantitative finance, stochastic modeling, and financial time series.
-
-Currently working on machine learning applications in financial markets, including systematic signal research, macro regime identification, fixed-income modeling, and stochastic scenario generation.
+Ph.D. in Machine Learning from KTH Royal Institute of Technology. I work at the intersection of quantitative finance, machine learning, stochastic modeling, and financial time series, developing data-driven methods for financial modeling, systematic research, and scenario generation.
 
 ### Research Interests
 - Quantitative Finance & Systematic Research
@@ -24,4 +22,6 @@ Currently working on machine learning applications in financial markets, includi
 - Ph.D. – KTH Royal Institute of Technology
 - 200+ citations in machine learning research
 
+[LinkedIn](https://www.linkedin.com/in/alirezamjavid/)
 [Google Scholar](https://scholar.google.com/citations?user=fiBfPVMAAAAJ)
+[Email](mailto:alireza.mj14@gmail.com)
