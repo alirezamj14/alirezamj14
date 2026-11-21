@@ -14,8 +14,8 @@ Ph.D. in Machine Learning from KTH Royal Institute of Technology. I work at the 
 
 ### Selected Research
 
-- [Synthetic Stock Data via a Mixture of Experts Neural SDE: Modeling Fibonacci Levels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7690700)
-- [Conditional Neural SDE Scenario Generation](https://arxiv.org/abs/2610.41405)
+- [Synthetic Stock Data via a Mixture of Experts Neural SDE: Modeling Fibonacci Levels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7690700) | [Code](https://github.com/banque-nouveau/fibonacci_neural_sde)
+- [Conditional Neural SDE Scenario Generation](https://arxiv.org/abs/2610.41405) | [Code](https://github.com/s1369m/scenario_nsde)
 
 ### Background
 - Senior Data Scientist – SEB
